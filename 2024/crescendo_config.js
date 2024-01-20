@@ -1,4 +1,5 @@
-{"enable_google_sheets": "true",
+{
+          "enable_google_sheets": "true",
           "title": "Scouting PASS 2022",
           "page_title": "Rapid React",
     "dataFormat": "tsv",
