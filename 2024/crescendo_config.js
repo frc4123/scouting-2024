@@ -2,7 +2,7 @@
           "enable_google_sheets": "true",
           "title": "Scouting PASS 2022",
           "page_title": "Rapid React",
-    "dataFormat": "tsv",
+    "dataFormat": "ksv",
     "title": "Scouting PASS 2024",
     "page_title": "Crescendo",
     "checkboxAs": "10",
